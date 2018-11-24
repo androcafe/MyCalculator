@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">MyCalculator</string>
+
+    <string name="string_one">1</string>
+    <string name="string_two">2</string>
+    <string name="string_three">3</string>
+    <string name="string_four">4</string>
+    <string name="string_five">5</string>
+    <string name="sring_six">6</string>
+    <string name="string_seven">7</string>
+    <string name="string_eight">8</string>
+    <string name="string_nine">9</string>
+    <string name="string_zero">0</string>
+    <string name="string_dot">.</string>
+    <string name="string_equal">=</string>
+    <string name="string_add">+</string>
+    <string name="string_min">-</string>
+    <string name="string_mul">*</string>
+    <string name="string_div">/</string>
+    <string name="string_plus_min">+/-</string>
+    <string name="string_per">%</string>
+    <string name="string_clear">c</string>
+    <string name="string_clearall">AC</string>
+
 </resources>
